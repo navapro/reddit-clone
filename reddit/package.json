@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@urql/exchange-graphcache": "^5.0.1"
+  }
+}
